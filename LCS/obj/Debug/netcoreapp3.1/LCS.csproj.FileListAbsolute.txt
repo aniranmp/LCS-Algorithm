@@ -1,0 +1,11 @@
+C:\Users\Nima Khodarahmi\Desktop\ALG\LCS\bin\Debug\netcoreapp3.1\LCS.exe
+C:\Users\Nima Khodarahmi\Desktop\ALG\LCS\bin\Debug\netcoreapp3.1\LCS.deps.json
+C:\Users\Nima Khodarahmi\Desktop\ALG\LCS\bin\Debug\netcoreapp3.1\LCS.runtimeconfig.json
+C:\Users\Nima Khodarahmi\Desktop\ALG\LCS\bin\Debug\netcoreapp3.1\LCS.runtimeconfig.dev.json
+C:\Users\Nima Khodarahmi\Desktop\ALG\LCS\bin\Debug\netcoreapp3.1\LCS.dll
+C:\Users\Nima Khodarahmi\Desktop\ALG\LCS\bin\Debug\netcoreapp3.1\LCS.pdb
+C:\Users\Nima Khodarahmi\Desktop\ALG\LCS\obj\Debug\netcoreapp3.1\LCS.csprojAssemblyReference.cache
+C:\Users\Nima Khodarahmi\Desktop\ALG\LCS\obj\Debug\netcoreapp3.1\LCS.AssemblyInfoInputs.cache
+C:\Users\Nima Khodarahmi\Desktop\ALG\LCS\obj\Debug\netcoreapp3.1\LCS.AssemblyInfo.cs
+C:\Users\Nima Khodarahmi\Desktop\ALG\LCS\obj\Debug\netcoreapp3.1\LCS.dll
+C:\Users\Nima Khodarahmi\Desktop\ALG\LCS\obj\Debug\netcoreapp3.1\LCS.pdb
